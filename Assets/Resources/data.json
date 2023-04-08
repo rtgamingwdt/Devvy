@@ -1,0 +1,24 @@
+{
+  "ideas": {
+    "ideas": 0,
+    "power": 0.0,
+    "progress": 0.0,
+    "maxProgress": 10.0
+  },
+  "features": {
+    "features": 0,
+    "baseQuality": 0,
+    "power": 0.0,
+    "progress": 0.0,
+    "maxProgress": 10.0,
+    "available": false
+  },
+  "bugs": {
+    "bugs": 0,
+    "qualityMulti": 0,
+    "power": 0.0,
+    "progress": 0.0,
+    "maxProgress": 10.0,
+    "available": false
+  }
+}
